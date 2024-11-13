@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m a passionate software engineer with a love f
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/-REST%20APIs-000000?style=for-the-badge)
 
 ### Database Systems
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
