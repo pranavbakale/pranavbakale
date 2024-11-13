@@ -55,7 +55,6 @@ Welcome to my GitHub profile! I’m a passionate software engineer with a love f
 ## 📫 How to Reach Me
 - **Email:** [bakalepranav2002@gmail.com](mailto:bakalepranav2002@gmail.com)
 - **LinkedIn:** [Pranav Bakale](https://www.linkedin.com/in/pranavbakale)
-- **Twitter:** [@pranav_bakale_](https://x.com/pranav_bakale_)
 
 ---
 
